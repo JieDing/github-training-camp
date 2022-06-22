@@ -1,7 +1,5 @@
 # LESSON-1
 
-666666
-
 Goals:
 
 - know some basic syntax of Markdown
