@@ -3,3 +3,4 @@ This repo is used to familiarize operations of Github for those who are new to G
 
 ## Lesson 1
 
+[learn to submit a Pull Request](https://github.com/JieDing/github-training-camp/blob/main/lesson-1/README.md)
